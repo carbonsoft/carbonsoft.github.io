@@ -2,7 +2,6 @@
 layout: post
 title:  "Carbon Reductor 7.4.9"
 date:   2016-11-07 14:28:06 +0500
-categories: carbon-reductor, releases
 ---
 В Carbon Reductor 7.4.9 всё внимание было сконцентрировано на стабилизации продукта, так как принятие закона <http://asozd2.duma.gov.ru/main.nsf/(Spravka)?OpenAgent&RN=1102471-6>
 не за горами.
