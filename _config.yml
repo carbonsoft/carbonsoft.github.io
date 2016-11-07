@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Промежуточный блог о релизах в Carbon Soft.
   В основном используется в качестве черновиков / в роли бэкапа всех записей.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://carbonsoft.ru" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ru_carbonsoft
 github_username:  carbonsoft
 
